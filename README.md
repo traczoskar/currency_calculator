@@ -33,7 +33,7 @@ const calculateResult = (amount, currency) => {
     const gbp = amount * 0.20;
 ```
 
-To make a proper calculating mode the "switch" operator has been used:
+To make a proper calculating module the "switch" operator has been used:
 ```javascript
 switch (currency) {
         case "EUR":
