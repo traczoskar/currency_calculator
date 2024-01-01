@@ -37,11 +37,11 @@ To make a proper calculating module the "switch" operator has been used:
 ```javascript
 switch (currency) {
         case "EUR":
-            return resultElement.innerText = (`${eur.toFixed(2)} €`);
+            return resultElement.innerText = (`${amount} zł = ${eur.toFixed(2)} €`);
         case "USD":
-            return resultElement.innerText = (`${usd.toFixed(2)} $`);
+            return resultElement.innerText = (`${amount} zł = ${usd.toFixed(2)} $`);
         case "GBP":
-            return resultElement.innerText = (`£ ${gbp.toFixed(2)}`);
+            return resultElement.innerText = (`${amount} zł = £ ${gbp.toFixed(2)}`);
     }
 ```
 
