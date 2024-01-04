@@ -1,7 +1,7 @@
 # Currency Calculator
 ### **What is it about?**
 
-Currency Calculator is a demo project of a currency converter. You can easily type in the amount of PLN (polish złoty), choose between 3 different and the most popular currencies, then just click "Przelicz" button and the magic will happen. My application will give you result in one of three currencies that you've choosen.
+Currency Calculator is a demo project of a currency converter. You can easily type in the amount of PLN (polish złoty), choose between 3 different and the most popular currencies, then just click "Calculate" button and the magic will happen. My application will give you result in one of three currencies that you've choosen.
 
 ### **[Currency Calculator - App link](https://traczoskar.github.io/currency_calculator/)**
 
