@@ -31,6 +31,7 @@ const calculateResult = (amount, currency) => {
     const eur = amount * 0.23;
     const usd = amount * 0.26;
     const gbp = amount * 0.20;
+}
 ```
 
 To make a proper calculating module the "switch" operator has been used:
